@@ -36,8 +36,8 @@ I never worked on any Stock Broking related data so by doing this project I can 
 
 
 ## Conclusion
-From above graph we can state that initially company stocks price was increasing steadily but after end of the 1st quater. profit start increasing exponentially.
+* From graph we can state that initially company stocks price was increasing steadily but after end of the 1st quater. profit start increasing exponentially.
 
-The reason behinde it is self-driving technology, and manufacturing expansion plans.
+* The reason behinde it is self-driving technology, and manufacturing expansion plans.
 
-Tesla published a document on April 2 stating that it had produced almost 103,000 vehicles and delivered roughly 88,400 vehicles in the first quarter record performance on both fronts for the period. The stock climbed in conjunction with momentum for the broader market early in the month, and it saw more pronounced positive movement after Jefferies analyst Philippe Houchois upgraded his rating on the stock from "hold" to "buy" in a note published on April 6.
+* Tesla published a document on April 2 stating that it had produced almost 103,000 vehicles and delivered roughly 88,400 vehicles in the first quarter record performance on both fronts for the period. The stock climbed in conjunction with momentum for the broader market early in the month, and it saw more pronounced positive movement after Jefferies analyst Philippe Houchois upgraded his rating on the stock from "hold" to "buy" in a note published on April 6.
