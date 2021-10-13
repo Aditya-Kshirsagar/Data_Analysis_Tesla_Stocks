@@ -24,6 +24,21 @@ I never worked on any Stock Broking related data so by doing this project I can 
 ##### Plotly (Latest version)
 * !pip install plotly
 
+# Data Information
+
+Historical Tesla Stock data from its inception 2010. During Pandemic it is one among other stocks that has seen steep fall and rise. It can be leveraged to perform Exploratory data analysis and Time Series Analysis for stock prediction.
+
+Company Bio: Tesla, Inc. designs, develops, manufactures, leases, and sells electric vehicles, and energy generation and storage systems in the United States, China, and internationally. The company operates in two segments, Automotive, and Energy Generation and Storage.
+
+Source: Yahoo Finance
+#### Columns
+* Date: Trading Date
+* Open: Price at which the financial security opens in the market when trading begins.
+* High: Highest price at which a stock traded during a period.
+* Low: Minimum price of a stock .
+* Close: Refers to the last price at which a stock trades during a regular trading session
+* Adj Close: The adjusted closing price amends a stock's closing price to reflect that stock's value after accounting for any corporate actions. It is often used when examining historical returns or doing a detailed analysis of past performance.
+
 # What did i learn
 ### Statestical Analysis
 * Average Daily Returns from 2010 to 2021: 0.002416157240890297 %
