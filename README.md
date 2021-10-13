@@ -26,14 +26,11 @@ I never worked on any Stock Broking related data so by doing this project I can 
 
 # What did i learn
 ### Statestical Analysis
-Average Daily Returns from 2010 to 2021: 0.002416157240890297 %
-Varince Daily Returns from 2010 to 2021: 0.0012477074059654442
-Standard deviation Daily Returns from 2010 to 2021: 0.03532290200373469
-According to Average daily returns, Variance and standard Deviation we can tell that.
-
-* Variance :- Variance is a measure of volatility because it measures how much a stock tends to deviate from its mean. The higher the variance, the more wildly the stock fluctuates. Accordingly, the higher the variance, the riskier the stock.
-
-* Standard deviation: - helps determine market volatility or the spread of asset prices from their average price. When prices move wildly, standard deviation is high, meaning an investment will be risky. Low standard deviation means prices are calm, so investments come with low risk.
+* Average Daily Returns from 2010 to 2021: 0.002416157240890297 %
+* Varince Daily Returns from 2010 to 2021: 0.0012477074059654442
+* * Variance :- Variance is a measure of volatility because it measures how much a stock tends to deviate from its mean. The higher the variance, the more wildly the stock fluctuates. Accordingly, the higher the variance, the riskier the stock.
+* Standard deviation Daily Returns from 2010 to 2021: 0.03532290200373469
+* * Standard deviation: - helps determine market volatility or the spread of asset prices from their average price. When prices move wildly, standard deviation is high, meaning an investment will be risky. Low standard deviation means prices are calm, so investments come with low risk.
 
 * A percentage increase in stock value is the change in stock comparing that to the previous day. The bigger the value either positive or negative the volatile the stock is.
 
